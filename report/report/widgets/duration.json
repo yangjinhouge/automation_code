@@ -1,0 +1,251 @@
+[ {
+  "uid" : "218f79a9a628b18c",
+  "name" : "test_add_lesson[{\"name\":\"大学英语004\",\"desc\":\"大学英语课程\",\"display_idx\":\"500\"}-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777878,
+    "stop" : 1601197777914,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a628b11f49690a6",
+  "name" : "test_add_lesson[{\"name\":\"大学语文001\",\"desc\":\"大学英语课程\",\"display_idx\":\"\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777554,
+    "stop" : 1601197777568,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a03e29612697141",
+  "name" : "test_add_lesson[{\"name\":\"大学英语010\",\"desc\":\"大学英语课程\",\"display_idx\":\",\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778361,
+    "stop" : 1601197778377,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dde75145dcab177",
+  "name" : "test_add_lesson[{\"name\":\"大学&英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778080,
+    "stop" : 1601197778096,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7859f135eaf7c67",
+  "name" : "test_add_lesson[{\"name\":\"大学英语 \",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778178,
+    "stop" : 1601197778187,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47b852adf950e085",
+  "name" : "test_add_lesson[{\"name\":\"大学英语003\",\"desc\":\"大学英语课程\",\"display_idx\":\"1000\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777857,
+    "stop" : 1601197777868,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "969317e11885e7d1",
+  "name" : "test_add_lesson[{\"name\":\"大学 英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778198,
+    "stop" : 1601197778272,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12936e72e8bd55b7",
+  "name" : "test_add_lesson[{\"name\":\"大学英语009\",\"desc\":\"大学英语课程\",\"display_idx\":\"a4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778340,
+    "stop" : 1601197778352,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b27a03e07121b628",
+  "name" : "test_add_lesson[{ \"name\":\"大学英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777481,
+    "stop" : 1601197777508,
+    "duration" : 27
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f942ee241009ab3",
+  "name" : "test_add_lesson[{\"name\":\"大\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777756,
+    "stop" : 1601197777789,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d1a1bd2f15b88fb",
+  "name" : "test_add_lesson[{\"name\":\"大学英语008\",\"desc\":\"大学英语课程\",\"display_idx\":\"ab\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778284,
+    "stop" : 1601197778323,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed25264d4f3e2466",
+  "name" : "test_add_lesson[{\"name\":\"大学*英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778058,
+    "stop" : 1601197778071,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a1a2ad504664561",
+  "name" : "test_add_lesson[{\"name\":\"大学英语大学英语大学英语大学英语大学英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777576,
+    "stop" : 1601197777619,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3a6583f39935e10",
+  "name" : "test_add_lesson[{\"name\":\"大学英语002\",\"desc\":\"大学英语课程\",\"display_idx\":\"999\"}\n-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777808,
+    "stop" : 1601197777848,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c6ad31d39c77eb",
+  "name" : "test_add_lesson[{\"name\":\"大学英语\",\"desc\":\"大学英语课程\", \"display_idx\":\"4\"\"}-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777211,
+    "stop" : 1601197777317,
+    "duration" : 106
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "615f28a2aeb47a77",
+  "name" : "test_add_lesson[{\"name\":\"大学英语005\",\"desc\":\"大学英语课程\",\"display_idx\":\"0\"}\n-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777932,
+    "stop" : 1601197777973,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a414931a0d9b1a0d",
+  "name" : "test_add_lesson[{\"name\":\" 大学英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778155,
+    "stop" : 1601197778165,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bd344658ea3353",
+  "name" : "test_add_lesson[{\"name\":\"大学：英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778132,
+    "stop" : 1601197778141,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96fca6e1c52b571c",
+  "name" : "test_add_lesson[{\"name\":\"我大学英语大学英语大学英语大学英语大学英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777629,
+    "stop" : 1601197777644,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "189c6ca539734d91",
+  "name" : "test_add_lesson[{\"name\":\"大学。英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778107,
+    "stop" : 1601197778115,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7eabc1ad61ec12d",
+  "name" : "test_add_lesson[{\"name\":\"大学英语大学英语大学\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 0, \"id\": 1286}]",
+  "time" : {
+    "start" : 1601197777652,
+    "stop" : 1601197777748,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c58597ed9eb21d",
+  "name" : "test_add_lesson[{ \"name\":\"\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777527,
+    "stop" : 1601197777542,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7015a149fcea45ad",
+  "name" : "test_add_lesson[{\"name\":\"大学$英语\",\"desc\":\"大学英语课程\",\"display_idx\":\"4\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778036,
+    "stop" : 1601197778049,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a60707d99034a2f4",
+  "name" : "test_add_lesson[{\"name\":\"大学英语006\",\"desc\":\"大学英语课程\",\"display_idx\":\"-1\"}-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197777986,
+    "stop" : 1601197778000,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab48bc8243d0b469",
+  "name" : "test_add_lesson[{\"name\":\"大学英语007\",\"desc\":\"大学英语课程\",\"display_idx\":\"33.3\"}\n-{\"retcode\": 2, \"reason\": \"同名课程已经存在\"}]",
+  "time" : {
+    "start" : 1601197778010,
+    "stop" : 1601197778028,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

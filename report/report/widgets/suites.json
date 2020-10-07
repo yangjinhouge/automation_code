@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "e738012d7eac59a64c7dfa6327d96abe",
+    "name" : "testLesson",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 25
+    }
+  } ]
+}
